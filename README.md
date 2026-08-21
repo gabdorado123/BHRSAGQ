@@ -114,11 +114,9 @@ A typical local development environment can use:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/BHRSAGQ.git
+git clone https://github.com/gabdorado123/BHRSAGQ.git
 cd BHRSAGQ
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Place the project in your web server directory
 
